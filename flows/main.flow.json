@@ -24,12 +24,25 @@
       "next": [
         {
           "condition": "true",
-          "node": ""
+          "node": "node-bb61"
         }
       ],
       "onEnter": [
         "say #!builtin_text-W8C6vW"
       ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "def2a6754d",
+      "name": "node-bb61",
+      "next": [
+        {
+          "condition": "true",
+          "node": ""
+        }
+      ],
+      "onEnter": [],
       "onReceive": null,
       "type": "standard"
     }
